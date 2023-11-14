@@ -7,9 +7,5 @@
 </head>
 <body>
     <h1>Hola Món</h1>
-    <p>COMMIT BLAI</p>
-    <h3>ALGO</h3>
-    <h1>Hola Món</h1>
-    <p>CANVIS DIFERENTS</p>
 </body>
 </html>
