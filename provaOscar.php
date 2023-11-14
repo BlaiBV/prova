@@ -6,6 +6,6 @@
     <title>Document Test</title>
 </head>
 <body>
-    <h1>Commit simultani</h1>
+    <h1>Hello World</h1>
 </body>
 </html>
